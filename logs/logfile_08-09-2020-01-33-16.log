@@ -1,0 +1,39 @@
+2020-09-08 13:33:48 INFO  :285 - Clicked
+2020-09-08 13:33:52 INFO  :290 - //a[@class='portal-login-btn']Pass Clicked : PORTAL LOGIN BUTTON FIELD
+2020-09-08 13:33:52 INFO  :562 - Select Value From visible Text
+2020-09-08 13:33:53 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:33:53 INFO  :266 - Entered Data in Text Field::adpo_2024
+2020-09-08 13:33:53 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:33:53 INFO  :266 - Entered Data in Text Field::Adpo@123
+2020-09-08 13:34:02 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:34:03 INFO  :266 - Entered Data in Text Field::32
+2020-09-08 13:34:03 INFO  :285 - Clicked
+2020-09-08 13:34:05 INFO  :290 - //button[@id='btnSubmit']Pass Clicked : SIGNIN FIELD
+2020-09-08 13:34:05 INFO  :285 - Clicked
+2020-09-08 13:34:11 INFO  :290 - //h1[@class='teacher_cnt']Pass Clicked : clickOnNumberOfTeachers
+2020-09-08 13:34:11 INFO  :406 - URL Validation
+2020-09-08 13:34:11 INFO  :331 - GET TEXT
+2020-09-08 13:34:20 INFO  :336 - Locator : //h3[@id='titleHeader']actual value : Dashboard
+2020-09-08 13:34:20 INFO  :462 - Is Displayed
+2020-09-08 13:34:20 INFO  :470 - Element is displayed for : //h3[@id='titleHeader'] viewTeacherMIS
+2020-09-08 13:34:20 INFO  :331 - GET TEXT
+2020-09-08 13:34:20 INFO  :336 - Locator : //i[@class='icon-home']actual value : 
+2020-09-08 13:34:20 INFO  :462 - Is Displayed
+2020-09-08 13:34:20 INFO  :470 - Element is displayed for : //i[@class='icon-home'] homeLink
+2020-09-08 13:34:20 INFO  :331 - GET TEXT
+2020-09-08 13:34:20 INFO  :336 - Locator : //li[@id='sFL']actual value : Dashboard
+2020-09-08 13:34:20 INFO  :462 - Is Displayed
+2020-09-08 13:34:20 INFO  :470 - Element is displayed for : //li[@id='sFL'] teacherActivity
+2020-09-08 13:34:20 INFO  :331 - GET TEXT
+2020-09-08 13:34:20 INFO  :336 - Locator : //li[@id='sSL']actual value : 
+2020-09-08 13:34:20 INFO  :462 - Is Displayed
+2020-09-08 13:34:20 INFO  :470 - Element is displayed for : //li[@id='sSL'] teacherMIS
+2020-09-08 13:34:20 INFO  :331 - GET TEXT
+2020-09-08 13:34:22 ERROR :343 - Error while getTextCannot locate an element using xpath=//a[contains(text(),'Service Book')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AFKAR', ip: '192.168.43.100', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '14.0.2'
+Driver info: driver.version: RemoteWebDriver
+2020-09-08 13:34:22 INFO  :229 - Failed Take ScreenShort
+2020-09-08 13:34:22 INFO  :229 - Failed Take ScreenShort
+2020-09-08 13:34:22 INFO  :229 - Failed Take ScreenShort

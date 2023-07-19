@@ -1,0 +1,5 @@
+2020-04-26 12:06:29 INFO  :104 - Clicked
+2020-04-26 12:06:33 INFO  :109 - //button[@id='btn2']Pass Clicked : Click On Skip SignIn
+2020-04-26 12:06:33 INFO  :104 - Clicked
+2020-04-26 12:06:34 INFO  :109 - //a[contains(text(),'WebTable')]Pass Clicked : Click On Web Table
+2020-04-26 12:06:36 INFO  :428 - The Size is::10

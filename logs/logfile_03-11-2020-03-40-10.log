@@ -1,0 +1,10 @@
+2020-11-03 15:40:48 INFO  :412 - URL Validation
+2020-11-03 15:40:48 INFO  :334 - GET TEXT
+2020-11-03 15:41:02 ERROR :346 - Error while getTextCannot locate an element using xpath=//h1[@class='school_cnt']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B8E2L48', ip: '192.168.43.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: driver.version: RemoteWebDriver
+2020-11-03 15:41:02 INFO  :232 - Failed Take ScreenShort
+2020-11-03 15:41:02 INFO  :232 - Failed Take ScreenShort
+2020-11-03 15:41:02 INFO  :232 - Failed Take ScreenShort

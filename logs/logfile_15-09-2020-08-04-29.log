@@ -1,0 +1,12 @@
+2020-09-15 20:05:04 INFO  :285 - Clicked
+2020-09-15 20:05:36 ERROR :298 - Error While Clicked!!!no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='portal-login-btn']"}
+  (Session info: chrome=85.0.4183.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AFKAR', ip: '192.168.43.100', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\AFKARA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51275}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 954f72dbe1b509413b7e51e8f6b95b3e
+*** Element info: {Using=xpath, value=//a[@class='portal-login-btn']}
+2020-09-15 20:05:36 INFO  :229 - Failed Take ScreenShort
+2020-09-15 20:05:38 INFO  :240 - PASS failedTakeScreenshortE:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_click 15-09-2020 8-5-38.jpg

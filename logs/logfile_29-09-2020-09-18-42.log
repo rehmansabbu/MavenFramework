@@ -1,0 +1,65 @@
+2020-09-29 09:18:54 INFO  :286 - Clicked
+2020-09-29 09:18:54 INFO  :291 - //button[@class='_2AkmmA _29YdH8']Pass Clicked :  Click on popup window
+2020-09-29 09:18:54 INFO  :410 - URL Validation
+2020-09-29 09:18:54 INFO  :417 - https://www.flipkart.com/ : https://www.flipkart.com/
+2020-09-29 09:18:54 INFO  :440 - Get Attribute
+2020-09-29 09:18:54 INFO  :445 - The Attribute value is!!!https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_4ee2f9.png
+2020-09-29 09:18:54 INFO  :495 - Is Enabled
+2020-09-29 09:18:54 INFO  :500 - The button is :: true
+2020-09-29 09:18:54 INFO  :507 - Button is enabled
+2020-09-29 09:18:54 INFO  :466 - Is Displayed
+2020-09-29 09:18:54 INFO  :474 - Element is displayed for : //div[@class='_2aUbKa'] More Button
+2020-09-29 09:18:54 INFO  :466 - Is Displayed
+2020-09-29 09:18:54 INFO  :474 - Element is displayed for : //span[contains(text(),'Cart')] Cart Button
+2020-09-29 09:18:54 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //span[contains(text(),'Electronics')]actual value : Electronics
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //span[contains(text(),'TVs & Appliances')]actual value : TVs & Appliances
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //span[contains(text(),'Men')]actual value : Men
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //span[contains(text(),'Women')]actual value : Women
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //span[contains(text(),'Baby & Kids')]actual value : Baby & Kids
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //span[contains(text(),'Home & Furniture')]actual value : Home & Furniture
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //span[contains(text(),'Sports, Books & More')]actual value : Sports, Books & More
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //a[contains(text(),'Flights')]actual value : Flights
+2020-09-29 09:18:55 INFO  :332 - GET TEXT
+2020-09-29 09:18:55 INFO  :337 - Locator : //a[contains(text(),'Offer Zone')]actual value : Offer Zone
+2020-09-29 09:18:55 INFO  :196 - Sucessfully Mouse Over & Move The ElementMouseOverMen
+2020-09-29 09:18:59 INFO  :357 - Text Validation
+2020-09-29 09:19:01 INFO  :332 - GET TEXT
+2020-09-29 09:19:02 INFO  :337 - Locator : //h1[@class='_2yAnYN']actual value : Men's Jeans
+2020-09-29 09:19:02 INFO  :332 - GET TEXT
+2020-09-29 09:19:02 INFO  :337 - Locator : //span[@class='eGD5BM']actual value : (Showing 1 – 40 products of 80,021 products)
+2020-09-29 09:19:02 INFO  :332 - GET TEXT
+2020-09-29 09:19:02 INFO  :337 - Locator : //div[@class='_3ywJNQ']actual value : Sort By
+Popularity
+Price -- Low to High
+Price -- High to Low
+Newest First
+2020-09-29 09:19:02 INFO  :286 - Clicked
+2020-09-29 09:19:02 INFO  :291 - //div[contains(text(),'Popularity')]Pass Clicked : Clicked On Popularity
+2020-09-29 09:19:05 INFO  :286 - Clicked
+2020-09-29 09:19:05 INFO  :291 - //div[contains(text(),'Price -- Low to High')]Pass Clicked : Low to High
+2020-09-29 09:19:08 INFO  :286 - Clicked
+2020-09-29 09:19:08 INFO  :291 - //div[contains(text(),'Price -- High to Low')]Pass Clicked : High to Low
+2020-09-29 09:19:11 INFO  :286 - Clicked
+2020-09-29 09:19:12 INFO  :291 - //div[@class='_1xHtJz xufquN']Pass Clicked : Newest
+2020-09-29 09:19:15 INFO  :286 - Clicked
+2020-09-29 09:19:15 INFO  :291 - //a[@class='_3Ep39l']Pass Clicked : Clicked On Login Button
+2020-09-29 09:19:15 INFO  :312 - pageLoad
+2020-09-29 09:19:15 INFO  :262 - Entering The Data In TextField
+2020-09-29 09:19:16 INFO  :267 - Entered Data in Text Field::8578905140
+2020-09-29 09:19:16 INFO  :312 - pageLoad
+2020-09-29 09:19:16 INFO  :262 - Entering The Data In TextField
+2020-09-29 09:19:16 INFO  :267 - Entered Data in Text Field::zikra_78688
+2020-09-29 09:19:16 INFO  :312 - pageLoad
+2020-09-29 09:19:16 INFO  :286 - Clicked
+2020-09-29 09:19:16 INFO  :291 - //button[@class='_2AkmmA _1LctnI _7UHT_c']Pass Clicked : Clicked On Submit Button
+2020-09-29 09:19:16 INFO  :410 - URL Validation
+2020-09-29 09:19:16 INFO  :196 - Sucessfully Mouse Over & Move The Elementkeep the cursor on Baby & Kids
+2020-09-29 09:19:16 INFO  :312 - pageLoad

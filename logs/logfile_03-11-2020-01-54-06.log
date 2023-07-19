@@ -1,0 +1,14 @@
+2020-11-03 13:54:27 INFO  :412 - URL Validation
+2020-11-03 13:54:27 INFO  :334 - GET TEXT
+2020-11-03 13:54:57 ERROR :346 - Error while getTextno such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='school_cnt']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B8E2L48', ip: '192.168.43.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cbfad9db4dd004eaaa2cafc82a66e45a
+*** Element info: {Using=xpath, value=//h1[@class='school_cnt']}
+2020-11-03 13:54:57 INFO  :232 - Failed Take ScreenShort
+2020-11-03 13:54:58 INFO  :243 - PASS failedTakeScreenshortD:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_getText 03-11-2020 1-54-58.jpg
+2020-11-03 13:54:58 INFO  :468 - Is Displayed

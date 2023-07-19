@@ -1,0 +1,98 @@
+2020-09-08 13:27:49 INFO  :285 - Clicked
+2020-09-08 13:27:52 INFO  :290 - //a[@class='portal-login-btn']Pass Clicked : PORTAL LOGIN BUTTON FIELD
+2020-09-08 13:27:53 INFO  :562 - Select Value From visible Text
+2020-09-08 13:27:53 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:27:53 INFO  :266 - Entered Data in Text Field::deo_2024
+2020-09-08 13:27:53 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:27:54 INFO  :266 - Entered Data in Text Field::Sh@78688
+2020-09-08 13:28:02 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:28:02 INFO  :266 - Entered Data in Text Field::11
+2020-09-08 13:28:02 INFO  :285 - Clicked
+2020-09-08 13:28:06 INFO  :290 - //button[@id='btnSubmit']Pass Clicked : SIGNIN FIELD
+2020-09-08 13:28:06 INFO  :285 - Clicked
+2020-09-08 13:28:26 INFO  :290 - //h1[@class='school_cnt']Pass Clicked : Clicked On NUMBER_OF_GOVT SCHOOLS
+2020-09-08 13:28:26 INFO  :331 - GET TEXT
+2020-09-08 13:28:26 INFO  :336 - Locator : //h3[@id='titleHeader']actual value : View School Mis
+2020-09-08 13:28:26 INFO  :462 - Is Displayed
+2020-09-08 13:28:26 INFO  :470 - Element is displayed for : //h3[@id='titleHeader'] VIEW_SCHOOL_MIS
+2020-09-08 13:28:26 INFO  :331 - GET TEXT
+2020-09-08 13:28:26 INFO  :336 - Locator : //li[@id='sFL']actual value : School Activity
+2020-09-08 13:28:26 INFO  :462 - Is Displayed
+2020-09-08 13:28:26 INFO  :470 - Element is displayed for : //li[@id='sFL'] SCHOOL_ACTIVITY
+2020-09-08 13:28:26 INFO  :331 - GET TEXT
+2020-09-08 13:28:26 INFO  :336 - Locator : //li[@id='sSL']actual value : School MIS
+2020-09-08 13:28:26 INFO  :462 - Is Displayed
+2020-09-08 13:28:26 INFO  :470 - Element is displayed for : //li[@id='sSL'] School MIS
+2020-09-08 13:28:26 INFO  :331 - GET TEXT
+2020-09-08 13:28:26 INFO  :336 - Locator : //i[@class='fa fa-calendar']actual value : 
+2020-09-08 13:28:26 INFO  :462 - Is Displayed
+2020-09-08 13:28:26 INFO  :470 - Element is displayed for : //i[@class='fa fa-calendar'] Calendar
+2020-09-08 13:28:26 INFO  :331 - GET TEXT
+2020-09-08 13:28:26 INFO  :336 - Locator : //i[@class='fa fa-question-circle-o']actual value : 
+2020-09-08 13:28:26 INFO  :462 - Is Displayed
+2020-09-08 13:28:26 INFO  :470 - Element is displayed for : //i[@class='fa fa-question-circle-o'] FAQ
+2020-09-08 13:28:26 INFO  :331 - GET TEXT
+2020-09-08 13:28:26 INFO  :336 - Locator : //i[@class='icon-notification']actual value : 
+2020-09-08 13:28:26 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //i[@class='icon-notification'] NOTIFICATIONS
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //i[@class='icon-gears']actual value : 
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //i[@class='icon-gears'] SETTING
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //i[@class='fa fa-power-off']actual value : 
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //i[@class='fa fa-power-off'] LOGOUT
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //a[@class='nav-item nav-link active']actual value : School Report
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //a[@class='nav-item nav-link active'] School report
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //a[contains(text(),'Student School Transfer Report')]actual value : Student School Transfer Report
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //a[contains(text(),'Student School Transfer Report')] STUDENT_SCHOOL_TRANSFER REPORT
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //a[contains(text(),'Merge School Report')]actual value : Merge School Report
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //a[contains(text(),'Merge School Report')] MERGE_SCHOOL REPORT
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //a[@class='nav-item nav-link bg-primary allreport']actual value : All Report
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //a[@class='nav-item nav-link bg-primary allreport'] All Report
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //i[contains(@class,'fa-print')]actual value : 
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //i[contains(@class,'fa-print')] PRINT ICON
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //select[@id='selDist']actual value : --Select--
+2013- BOKARO
+2003- CHATRA
+2007- DEOGHAR
+2012- DHANBAD
+2011- DUMKA
+2001- GARHWA
+2006- GIRIDIH
+2008- GODDA
+2016- GUMLA
+2004- HAZARIBAG
+2019- JAMTARA
+2023- KHUNTI
+2005- KODARMA
+2022- LATEHAR
+2015- LOHARDAGA
+2010- PAKAUR
+2002- PALAMU
+2017- PASHCHIMI SINGHBHUM
+2018- PURBI SINGHBHUM
+2024- RAMGARH
+2014- RANCHI
+2009- SAHIBGANJ
+2020- SARAIKELA-KHARSAWAN
+2021- SIMDEGA
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :470 - Element is displayed for : //select[@id='selDist'] District
+2020-09-08 13:28:27 INFO  :331 - GET TEXT
+2020-09-08 13:28:27 INFO  :336 - Locator : //select[@id='selBlock']actual value : 
+2020-09-08 13:28:27 INFO  :462 - Is Displayed
+2020-09-08 13:28:27 INFO  :229 - Failed Take ScreenShort
+2020-09-08 13:28:28 INFO  :240 - PASS failedTakeScreenshortE:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_numberOfGovtSchools 08-09-2020 1-28-28.jpg

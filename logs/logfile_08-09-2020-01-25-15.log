@@ -1,0 +1,156 @@
+2020-09-08 13:25:35 INFO  :285 - Clicked
+2020-09-08 13:25:39 INFO  :290 - //a[@class='portal-login-btn']Pass Clicked : PORTAL LOGIN BUTTON FIELD
+2020-09-08 13:25:39 INFO  :562 - Select Value From visible Text
+2020-09-08 13:25:40 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:25:40 INFO  :266 - Entered Data in Text Field::deo_2024
+2020-09-08 13:25:40 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:25:40 INFO  :266 - Entered Data in Text Field::Sh@78688
+2020-09-08 13:25:48 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:25:48 INFO  :266 - Entered Data in Text Field::10
+2020-09-08 13:25:48 INFO  :285 - Clicked
+2020-09-08 13:25:52 INFO  :290 - //button[@id='btnSubmit']Pass Clicked : SIGNIN FIELD
+2020-09-08 13:25:52 INFO  :462 - Is Displayed
+2020-09-08 13:25:52 INFO  :470 - Element is displayed for : //span[contains(text(),'Home')] Home Field
+2020-09-08 13:25:52 INFO  :436 - Get Attribute
+2020-09-08 13:25:52 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/dashboard
+2020-09-08 13:25:52 INFO  :381 - Label Text Validation
+2020-09-08 13:25:52 INFO  :386 - https://evidyavahini.jharkhand.gov.in/dashboard : https://evidyavahini.jharkhand.gov.in/dashboard
+2020-09-08 13:25:52 INFO  :331 - GET TEXT
+2020-09-08 13:25:52 INFO  :336 - Locator : //span[contains(text(),'User Management')]actual value : User Management
+2020-09-08 13:25:52 INFO  :462 - Is Displayed
+2020-09-08 13:25:52 INFO  :470 - Element is displayed for : //i[@class='icon-user_management usermanagement'] User Management Icon
+2020-09-08 13:25:52 INFO  :285 - Clicked
+2020-09-08 13:25:52 INFO  :290 - //span[contains(text(),'User Management')]Pass Clicked : Clicked on UserManagement
+2020-09-08 13:25:52 INFO  :331 - GET TEXT
+2020-09-08 13:25:52 INFO  :336 - Locator : //a[contains(text(),'Manage User')]actual value : Manage User
+2020-09-08 13:25:52 INFO  :436 - Get Attribute
+2020-09-08 13:25:52 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Master/Userprofile
+2020-09-08 13:25:52 INFO  :331 - GET TEXT
+2020-09-08 13:25:52 INFO  :336 - Locator : //a[contains(text(),'Manage Profile')]actual value : Manage Profile
+2020-09-08 13:25:52 INFO  :436 - Get Attribute
+2020-09-08 13:25:52 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Master/Employeeprofile
+2020-09-08 13:25:55 INFO  :285 - Clicked
+2020-09-08 13:25:55 INFO  :290 - //span[contains(text(),'User Management')]Pass Clicked : Clicked on UserManagement
+2020-09-08 13:25:55 INFO  :331 - GET TEXT
+2020-09-08 13:25:55 INFO  :336 - Locator : //span[contains(text(),'Manage School')]actual value : Manage School
+2020-09-08 13:25:55 INFO  :462 - Is Displayed
+2020-09-08 13:25:55 INFO  :470 - Element is displayed for : //i[@class='icon-manage_school manageschool'] Manage School Icon
+2020-09-08 13:25:55 INFO  :285 - Clicked
+2020-09-08 13:25:55 INFO  :290 - //span[contains(text(),'Manage School')]Pass Clicked : Clicked on Manage school
+2020-09-08 13:25:55 INFO  :331 - GET TEXT
+2020-09-08 13:25:55 INFO  :336 - Locator : //a[contains(text(),'View-Update School')]actual value : View-Update School
+2020-09-08 13:25:55 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/School/Registration
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //a[contains(text(),'School MIS')]actual value : School MIS
+2020-09-08 13:25:56 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/School/Mis
+2020-09-08 13:25:56 INFO  :285 - Clicked
+2020-09-08 13:25:56 INFO  :290 - //span[contains(text(),'Manage School')]Pass Clicked : Clicked on Manage school
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //span[contains(text(),'Teacher Activity')]actual value : Teacher Activity
+2020-09-08 13:25:56 INFO  :462 - Is Displayed
+2020-09-08 13:25:56 INFO  :470 - Element is displayed for : //i[@class='icon-teacher_activity teacheractivity'] Teacher Activity ICON
+2020-09-08 13:25:56 INFO  :285 - Clicked
+2020-09-08 13:25:56 INFO  :290 - //span[contains(text(),'Teacher Activity')]Pass Clicked : Clicked on Teacher Activity
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //a[contains(text(),'Registration- View-Update')]actual value : Registration- View-Update
+2020-09-08 13:25:56 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/Registration
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //a[contains(text(),'Detailed Profile Update')]actual value : Detailed Profile Update
+2020-09-08 13:25:56 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/Information
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //a[contains(text(),'Update Service Status')]actual value : Update Service Status
+2020-09-08 13:25:56 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/TeacherService
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //a[contains(text(),'Teacher MIS')]actual value : Teacher MIS
+2020-09-08 13:25:56 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/TeacherMis
+2020-09-08 13:25:56 INFO  :285 - Clicked
+2020-09-08 13:25:56 INFO  :290 - //span[contains(text(),'Teacher Activity')]Pass Clicked : Clicked on Teacher Activity
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //span[contains(text(),'Learning Tracking Format')]actual value : Learning Tracking Format
+2020-09-08 13:25:56 INFO  :462 - Is Displayed
+2020-09-08 13:25:56 INFO  :470 - Element is displayed for : //i[@class='icon-learning_level_monitoring learninglevel'] Learning Tracking Format ICON
+2020-09-08 13:25:56 INFO  :285 - Clicked
+2020-09-08 13:25:56 INFO  :290 - //span[contains(text(),'Learning Tracking Format')]Pass Clicked : Clicked on Learning Tracking Format
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //a[contains(text(),'Manage Topic')]actual value : Manage Topic
+2020-09-08 13:25:56 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Master/Topic
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:56 INFO  :336 - Locator : //a[contains(text(),'Manage Groups')]actual value : Manage Groups
+2020-09-08 13:25:56 INFO  :436 - Get Attribute
+2020-09-08 13:25:56 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Master/Grouptagging
+2020-09-08 13:25:56 INFO  :331 - GET TEXT
+2020-09-08 13:25:57 INFO  :336 - Locator : //a[contains(text(),'Manage Competency')]actual value : Manage Competency
+2020-09-08 13:25:57 INFO  :436 - Get Attribute
+2020-09-08 13:25:57 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/LLM/Competency
+2020-09-08 13:25:57 INFO  :331 - GET TEXT
+2020-09-08 13:25:57 INFO  :336 - Locator : //a[contains(text(),'LTF MIS')]actual value : LTF MIS
+2020-09-08 13:25:57 INFO  :436 - Get Attribute
+2020-09-08 13:25:57 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/LLM/Report
+2020-09-08 13:26:00 INFO  :285 - Clicked
+2020-09-08 13:26:00 INFO  :290 - //span[contains(text(),'Learning Tracking Format')]Pass Clicked : Clicked on Learning Trakicng Format
+2020-09-08 13:26:00 INFO  :331 - GET TEXT
+2020-09-08 13:26:00 INFO  :336 - Locator : //span[contains(text(),'Certification')]actual value : Certification
+2020-09-08 13:26:00 INFO  :462 - Is Displayed
+2020-09-08 13:26:00 INFO  :470 - Element is displayed for : //i[@class='fa fa-certificate certi'] Certification Icon
+2020-09-08 13:26:00 INFO  :285 - Clicked
+2020-09-08 13:26:00 INFO  :290 - //span[contains(text(),'Certification')]Pass Clicked : Clicked On Certification
+2020-09-08 13:26:00 INFO  :331 - GET TEXT
+2020-09-08 13:26:00 INFO  :336 - Locator : //a[contains(text(),'Certification MIS')]actual value : Certification MIS
+2020-09-08 13:26:00 INFO  :436 - Get Attribute
+2020-09-08 13:26:00 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Certification/CertificationMis/consolidatedMis
+2020-09-08 13:26:03 INFO  :285 - Clicked
+2020-09-08 13:26:03 INFO  :290 - //span[contains(text(),'Certification')]Pass Clicked : Clicked On Certification
+2020-09-08 13:26:03 INFO  :331 - GET TEXT
+2020-09-08 13:26:03 INFO  :336 - Locator : //span[contains(text(),'Monitoring')]actual value : Monitoring
+2020-09-08 13:26:03 INFO  :462 - Is Displayed
+2020-09-08 13:26:03 INFO  :470 - Element is displayed for : //i[@class='fa fa-bar-chart monitoring'] Monitoring ICON
+2020-09-08 13:26:03 INFO  :285 - Clicked
+2020-09-08 13:26:03 INFO  :290 - //span[contains(text(),'Monitoring')]Pass Clicked : Clicked on Monitoring
+2020-09-08 13:26:03 INFO  :331 - GET TEXT
+2020-09-08 13:26:03 INFO  :336 - Locator : //a[contains(text(),'Monitoring Question')]actual value : Monitoring Question
+2020-09-08 13:26:03 INFO  :436 - Get Attribute
+2020-09-08 13:26:03 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Facility/SurveyQuestion
+2020-09-08 13:26:03 INFO  :331 - GET TEXT
+2020-09-08 13:26:03 INFO  :336 - Locator : //a[contains(text(),'Monitoring MIS')]actual value : Monitoring MIS
+2020-09-08 13:26:03 INFO  :436 - Get Attribute
+2020-09-08 13:26:03 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Facility/SurveyReport
+2020-09-08 13:26:06 INFO  :285 - Clicked
+2020-09-08 13:26:06 INFO  :290 - //span[contains(text(),'Monitoring')]Pass Clicked : Clicked on Monitoring
+2020-09-08 13:26:06 INFO  :331 - GET TEXT
+2020-09-08 13:26:06 INFO  :336 - Locator : //span[contains(text(),'Mid-day Meal')]actual value : Mid-day Meal
+2020-09-08 13:26:06 INFO  :462 - Is Displayed
+2020-09-08 13:26:06 INFO  :470 - Element is displayed for : //i[@class='fa fa-cutlery mdm'] Mid Day Meal Icon
+2020-09-08 13:26:06 INFO  :285 - Clicked
+2020-09-08 13:26:07 INFO  :290 - //span[contains(text(),'Mid-day Meal')]Pass Clicked : Clicked on Mid Day Meal
+2020-09-08 13:26:07 INFO  :331 - GET TEXT
+2020-09-08 13:26:07 INFO  :336 - Locator : //a[contains(text(),'Daily Menu')]actual value : Daily Menu
+2020-09-08 13:26:07 INFO  :436 - Get Attribute
+2020-09-08 13:26:07 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/MDM/ManageMenu
+2020-09-08 13:26:07 INFO  :331 - GET TEXT
+2020-09-08 13:26:07 INFO  :336 - Locator : //a[contains(text(),'Student Expenses')]actual value : Student Expenses
+2020-09-08 13:26:07 INFO  :436 - Get Attribute
+2020-09-08 13:26:07 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/MDM/StudentExpenses
+2020-09-08 13:26:07 INFO  :331 - GET TEXT
+2020-09-08 13:26:07 INFO  :336 - Locator : //a[contains(text(),'Stock Report')]actual value : Stock Report
+2020-09-08 13:26:07 INFO  :436 - Get Attribute
+2020-09-08 13:26:07 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/MDM/StockReport
+2020-09-08 13:26:07 INFO  :331 - GET TEXT
+2020-09-08 13:26:07 INFO  :336 - Locator : //a[contains(text(),'Daily Consumption Report')]actual value : Daily Consumption Report
+2020-09-08 13:26:07 INFO  :436 - Get Attribute
+2020-09-08 13:26:07 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/MDM/MdmDailyConsumptionReport
+2020-09-08 13:26:07 INFO  :331 - GET TEXT
+2020-09-08 13:26:07 INFO  :336 - Locator : //a[contains(text(),'Cook Details')]actual value : Cook Details
+2020-09-08 13:26:07 INFO  :436 - Get Attribute
+2020-09-08 13:26:07 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/MDM/CookSalary
+2020-09-08 13:26:07 INFO  :331 - GET TEXT
+2020-09-08 13:26:07 INFO  :336 - Locator : //a[contains(text(),'MDM MIS')]actual value : MDM MIS
+2020-09-08 13:26:07 INFO  :436 - Get Attribute
+2020-09-08 13:26:07 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/MDM/MDMMis
+2020-09-08 13:26:07 INFO  :331 - GET TEXT

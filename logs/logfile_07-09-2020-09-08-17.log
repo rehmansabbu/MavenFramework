@@ -1,0 +1,21 @@
+2020-09-07 21:08:39 INFO  :285 - Clicked
+2020-09-07 21:08:43 INFO  :290 - //a[@class='portal-login-btn']Pass Clicked : PORTAL LOGIN BUTTON FIELD
+2020-09-07 21:08:43 INFO  :562 - Select Value From visible Text
+2020-09-07 21:08:49 INFO  :261 - Entering The Data In TextField
+2020-09-07 21:08:49 INFO  :266 - Entered Data in Text Field::dse_2024
+2020-09-07 21:08:49 INFO  :261 - Entering The Data In TextField
+2020-09-07 21:08:50 INFO  :266 - Entered Data in Text Field::Dse@78688
+2020-09-07 21:09:07 INFO  :261 - Entering The Data In TextField
+2020-09-07 21:09:07 INFO  :266 - Entered Data in Text Field::50
+2020-09-07 21:09:07 INFO  :285 - Clicked
+2020-09-07 21:09:09 INFO  :290 - //button[@id='btnSubmit']Pass Clicked : SIGNIN FIELD
+2020-09-07 21:09:09 INFO  :406 - URL Validation
+2020-09-07 21:09:09 INFO  :331 - GET TEXT
+2020-09-07 21:09:20 ERROR :343 - Error while getTextCannot locate an element using xpath=//h1[@class='school_cnt']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AFKAR', ip: '192.168.43.100', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '14.0.2'
+Driver info: driver.version: RemoteWebDriver
+2020-09-07 21:09:20 INFO  :229 - Failed Take ScreenShort
+2020-09-07 21:09:21 INFO  :229 - Failed Take ScreenShort
+2020-09-07 21:09:21 INFO  :229 - Failed Take ScreenShort

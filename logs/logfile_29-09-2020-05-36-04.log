@@ -1,0 +1,76 @@
+2020-09-29 17:36:13 INFO  :286 - Clicked
+2020-09-29 17:36:14 INFO  :291 - //button[@class='_2AkmmA _29YdH8']Pass Clicked :  Click on popup window
+2020-09-29 17:36:14 INFO  :410 - URL Validation
+2020-09-29 17:36:14 INFO  :417 - https://www.flipkart.com/ : https://www.flipkart.com/
+2020-09-29 17:36:14 INFO  :440 - Get Attribute
+2020-09-29 17:36:14 INFO  :445 - The Attribute value is!!!https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_4ee2f9.png
+2020-09-29 17:36:14 INFO  :495 - Is Enabled
+2020-09-29 17:36:14 INFO  :500 - The button is :: true
+2020-09-29 17:36:14 INFO  :507 - Button is enabled
+2020-09-29 17:36:14 INFO  :466 - Is Displayed
+2020-09-29 17:36:14 INFO  :474 - Element is displayed for : //div[@class='_2aUbKa'] More Button
+2020-09-29 17:36:14 INFO  :466 - Is Displayed
+2020-09-29 17:36:14 INFO  :474 - Element is displayed for : //span[contains(text(),'Cart')] Cart Button
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //span[contains(text(),'Electronics')]actual value : Electronics
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //span[contains(text(),'TVs & Appliances')]actual value : TVs & Appliances
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //span[contains(text(),'Men')]actual value : Men
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //span[contains(text(),'Women')]actual value : Women
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //span[contains(text(),'Baby & Kids')]actual value : Baby & Kids
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //span[contains(text(),'Home & Furniture')]actual value : Home & Furniture
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //span[contains(text(),'Sports, Books & More')]actual value : Sports, Books & More
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //a[contains(text(),'Flights')]actual value : Flights
+2020-09-29 17:36:14 INFO  :332 - GET TEXT
+2020-09-29 17:36:14 INFO  :337 - Locator : //a[contains(text(),'Offer Zone')]actual value : Offer Zone
+2020-09-29 17:36:15 INFO  :196 - Sucessfully Mouse Over & Move The ElementMouseOverMen
+2020-09-29 17:36:19 INFO  :357 - Text Validation
+2020-09-29 17:36:20 INFO  :332 - GET TEXT
+2020-09-29 17:36:21 INFO  :337 - Locator : //h1[@class='_2yAnYN']actual value : Men's Jeans
+2020-09-29 17:36:21 INFO  :332 - GET TEXT
+2020-09-29 17:36:21 INFO  :337 - Locator : //span[@class='eGD5BM']actual value : (Showing 1 – 40 products of 80,686 products)
+2020-09-29 17:36:21 INFO  :332 - GET TEXT
+2020-09-29 17:36:21 INFO  :337 - Locator : //div[@class='_3ywJNQ']actual value : Sort By
+Popularity
+Price -- Low to High
+Price -- High to Low
+Newest First
+2020-09-29 17:36:21 INFO  :286 - Clicked
+2020-09-29 17:36:21 INFO  :291 - //div[contains(text(),'Popularity')]Pass Clicked : Clicked On Popularity
+2020-09-29 17:36:24 INFO  :286 - Clicked
+2020-09-29 17:36:24 INFO  :291 - //div[contains(text(),'Price -- Low to High')]Pass Clicked : Low to High
+2020-09-29 17:36:27 INFO  :286 - Clicked
+2020-09-29 17:36:27 INFO  :291 - //div[contains(text(),'Price -- High to Low')]Pass Clicked : High to Low
+2020-09-29 17:36:30 INFO  :286 - Clicked
+2020-09-29 17:36:31 INFO  :291 - //div[@class='_1xHtJz xufquN']Pass Clicked : Newest
+2020-09-29 17:36:34 INFO  :286 - Clicked
+2020-09-29 17:36:34 INFO  :291 - //a[@class='_3Ep39l']Pass Clicked : Clicked On Login Button
+2020-09-29 17:36:34 INFO  :312 - pageLoad
+2020-09-29 17:36:34 INFO  :262 - Entering The Data In TextField
+2020-09-29 17:36:34 INFO  :267 - Entered Data in Text Field::8578905140
+2020-09-29 17:36:34 INFO  :312 - pageLoad
+2020-09-29 17:36:34 INFO  :262 - Entering The Data In TextField
+2020-09-29 17:36:34 INFO  :267 - Entered Data in Text Field::zikra_78688
+2020-09-29 17:36:34 INFO  :312 - pageLoad
+2020-09-29 17:36:34 INFO  :286 - Clicked
+2020-09-29 17:36:35 INFO  :291 - //button[@class='_2AkmmA _1LctnI _7UHT_c']Pass Clicked : Clicked On Submit Button
+2020-09-29 17:36:35 INFO  :410 - URL Validation
+2020-09-29 17:36:39 INFO  :196 - Sucessfully Mouse Over & Move The Elementkeep the cursor on Baby & Kids
+2020-09-29 17:36:42 INFO  :286 - Clicked
+2020-09-29 17:37:12 ERROR :299 - Error While Clicked!!!no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='_1KHd47'][contains(text(),'Sports Shoes')]"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AFKAR', ip: '192.168.43.100', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\AFKARA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50158}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 2b3d83f26af37eb0a7eaf1a6078f7398
+*** Element info: {Using=xpath, value=//a[@class='_1KHd47'][contains(text(),'Sports Shoes')]}
+2020-09-29 17:37:12 INFO  :230 - Failed Take ScreenShort
+2020-09-29 17:37:13 INFO  :241 - PASS failedTakeScreenshortE:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_click 29-09-2020 5-37-13.jpg

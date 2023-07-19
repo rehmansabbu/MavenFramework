@@ -1,0 +1,15 @@
+2020-09-08 13:31:13 INFO  :285 - Clicked
+2020-09-08 13:31:17 INFO  :290 - //a[@class='portal-login-btn']Pass Clicked : PORTAL LOGIN BUTTON FIELD
+2020-09-08 13:31:18 INFO  :562 - Select Value From visible Text
+2020-09-08 13:31:18 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:31:19 INFO  :266 - Entered Data in Text Field::deo_2024
+2020-09-08 13:31:19 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:31:19 INFO  :266 - Entered Data in Text Field::Sh@78688
+2020-09-08 13:31:27 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:31:27 INFO  :266 - Entered Data in Text Field::4
+2020-09-08 13:31:27 INFO  :285 - Clicked
+2020-09-08 13:31:31 INFO  :290 - //button[@id='btnSubmit']Pass Clicked : SIGNIN FIELD
+2020-09-08 13:31:31 INFO  :285 - Clicked
+2020-09-08 13:31:35 INFO  :290 - //h1[@class='teacher_cnt']Pass Clicked : clickOnNumberOfTeachers
+2020-09-08 13:31:35 INFO  :406 - URL Validation
+2020-09-08 13:31:35 INFO  :331 - GET TEXT

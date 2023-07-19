@@ -1,0 +1,32 @@
+2020-09-27 00:04:42 INFO  :285 - Clicked
+2020-09-27 00:04:43 INFO  :290 - //button[@class='_2AkmmA _29YdH8']Pass Clicked :  Click on popup window
+2020-09-27 00:04:43 INFO  :406 - URL Validation
+2020-09-27 00:04:43 INFO  :413 - https://www.flipkart.com/ : https://www.flipkart.com/
+2020-09-27 00:04:43 INFO  :436 - Get Attribute
+2020-09-27 00:04:43 INFO  :441 - The Attribute value is!!!https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_4ee2f9.png
+2020-09-27 00:04:43 INFO  :491 - Is Enabled
+2020-09-27 00:04:43 INFO  :496 - The button is :: true
+2020-09-27 00:04:43 INFO  :503 - Button is enabled
+2020-09-27 00:04:43 INFO  :462 - Is Displayed
+2020-09-27 00:04:43 INFO  :470 - Element is displayed for : //div[@class='_2aUbKa'] More Button
+2020-09-27 00:04:43 INFO  :462 - Is Displayed
+2020-09-27 00:04:43 INFO  :470 - Element is displayed for : //span[contains(text(),'Cart')] Cart Button
+2020-09-27 00:04:43 INFO  :331 - GET TEXT
+2020-09-27 00:04:43 INFO  :336 - Locator : //span[contains(text(),'Electronics')]actual value : Electronics
+2020-09-27 00:04:43 INFO  :331 - GET TEXT
+2020-09-27 00:04:43 INFO  :336 - Locator : //span[contains(text(),'TVs & Appliances')]actual value : TVs & Appliances
+2020-09-27 00:04:43 INFO  :331 - GET TEXT
+2020-09-27 00:04:43 INFO  :336 - Locator : //span[contains(text(),'Men')]actual value : Men
+2020-09-27 00:04:43 INFO  :331 - GET TEXT
+2020-09-27 00:04:44 INFO  :336 - Locator : //span[contains(text(),'Women')]actual value : Women
+2020-09-27 00:04:44 INFO  :331 - GET TEXT
+2020-09-27 00:04:44 INFO  :336 - Locator : //span[contains(text(),'Baby & Kids')]actual value : Baby & Kids
+2020-09-27 00:04:44 INFO  :331 - GET TEXT
+2020-09-27 00:04:44 INFO  :336 - Locator : //span[contains(text(),'Home & Furniture')]actual value : Home & Furniture
+2020-09-27 00:04:44 INFO  :331 - GET TEXT
+2020-09-27 00:04:44 INFO  :336 - Locator : //span[contains(text(),'Sports, Books & More')]actual value : Sports, Books & More
+2020-09-27 00:04:44 INFO  :331 - GET TEXT
+2020-09-27 00:04:44 INFO  :336 - Locator : //a[contains(text(),'Flights')]actual value : Flights
+2020-09-27 00:04:44 INFO  :331 - GET TEXT
+2020-09-27 00:04:44 INFO  :336 - Locator : //a[contains(text(),'Offer Zone')]actual value : Offer Zone
+2020-09-27 00:04:44 INFO  :195 - Sucessfully Move The Element

@@ -1,0 +1,28 @@
+2020-09-07 11:18:54 INFO  :406 - URL Validation
+2020-09-07 11:18:54 INFO  :331 - GET TEXT
+2020-09-07 11:18:54 INFO  :336 - Locator : //h1[@class='school_cnt']actual value : 35455
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:18:54 INFO  :470 - Element is displayed for : //h1[@class='school_cnt'] Number of government school
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:18:54 INFO  :470 - Element is displayed for : //span[@class='school_cnt_brp'] Visted by BRP/CRP
+2020-09-07 11:18:54 INFO  :331 - GET TEXT
+2020-09-07 11:18:54 INFO  :336 - Locator : //p[contains(text(),'govt.')]actual value : Number of govt. schools
+2020-09-07 11:18:54 INFO  :381 - Label Text Validation
+2020-09-07 11:18:54 INFO  :386 - govt. schools : govt. schools
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:18:54 INFO  :470 - Element is displayed for : //h1[@class='teacher_cnt'] Number of Teacher
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:18:54 INFO  :470 - Element is displayed for : //span[@class='teacher_present_cnt'] Total Present of Teacher
+2020-09-07 11:18:54 INFO  :331 - GET TEXT
+2020-09-07 11:18:54 INFO  :336 - Locator : //span[@class='active_brp_cnt']actual value : 0
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:18:54 INFO  :470 - Element is displayed for : //span[@class='active_brp_cnt'] Active BRP/CRP
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:18:54 INFO  :470 - Element is displayed for : //div[contains(text(),'Certification Data')] Certification data Text field
+2020-09-07 11:18:54 INFO  :331 - GET TEXT
+2020-09-07 11:18:54 INFO  :336 - Locator : //div[@class='nomination']//h3actual value : 8990
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:18:54 INFO  :470 - Element is displayed for : //div[@class='nomination']//h3 Total certification Data
+2020-09-07 11:18:54 INFO  :462 - Is Displayed
+2020-09-07 11:19:25 INFO  :229 - Failed Take ScreenShort
+2020-09-07 11:19:26 INFO  :240 - PASS failedTakeScreenshortE:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_login 07-09-2020 11-19-26.jpg

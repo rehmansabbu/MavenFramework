@@ -1,0 +1,107 @@
+2020-10-03 12:15:30 INFO  :288 - Clicked
+2020-10-03 12:15:30 INFO  :293 - //button[@class='_2AkmmA _29YdH8']Pass Clicked :  Click on popup window
+2020-10-03 12:15:30 INFO  :412 - URL Validation
+2020-10-03 12:15:30 INFO  :419 - https://www.flipkart.com/ : https://www.flipkart.com/
+2020-10-03 12:15:30 INFO  :442 - Get Attribute
+2020-10-03 12:15:30 INFO  :447 - The Attribute value is!!!https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_4ee2f9.png
+2020-10-03 12:15:30 INFO  :497 - Is Enabled
+2020-10-03 12:15:30 INFO  :502 - The button is :: true
+2020-10-03 12:15:30 INFO  :509 - Button is enabled
+2020-10-03 12:15:30 INFO  :468 - Is Displayed
+2020-10-03 12:15:30 INFO  :476 - Element is displayed for : //div[@class='_2aUbKa'] More Button
+2020-10-03 12:15:30 INFO  :468 - Is Displayed
+2020-10-03 12:15:31 INFO  :476 - Element is displayed for : //span[contains(text(),'Cart')] Cart Button
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //span[contains(text(),'Electronics')]actual value : Electronics
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //span[contains(text(),'TVs & Appliances')]actual value : TVs & Appliances
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //span[contains(text(),'Men')]actual value : Men
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //span[contains(text(),'Women')]actual value : Women
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //span[contains(text(),'Baby & Kids')]actual value : Baby & Kids
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //span[contains(text(),'Home & Furniture')]actual value : Home & Furniture
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //span[contains(text(),'Sports, Books & More')]actual value : Sports, Books & More
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //a[contains(text(),'Flights')]actual value : Flights
+2020-10-03 12:15:31 INFO  :334 - GET TEXT
+2020-10-03 12:15:31 INFO  :339 - Locator : //a[contains(text(),'Offer Zone')]actual value : Offer Zone
+2020-10-03 12:15:31 INFO  :198 - Sucessfully Mouse Over & Move The ElementMouseOverMen
+2020-10-03 12:15:35 INFO  :288 - Clicked
+2020-10-03 12:15:35 INFO  :293 - //a[contains(text(),'Jeans')]Pass Clicked : Clicked On Jeans
+2020-10-03 12:15:35 INFO  :359 - Text Validation
+2020-10-03 12:15:41 INFO  :334 - GET TEXT
+2020-10-03 12:15:41 INFO  :339 - Locator : //h1[@class='_2yAnYN']actual value : Men's Jeans
+2020-10-03 12:15:41 INFO  :334 - GET TEXT
+2020-10-03 12:15:41 INFO  :339 - Locator : //span[@class='eGD5BM']actual value : (Showing 1 – 40 products of 80,103 products)
+2020-10-03 12:15:41 INFO  :334 - GET TEXT
+2020-10-03 12:15:41 INFO  :339 - Locator : //div[@class='_3ywJNQ']actual value : Sort By
+Popularity
+Price -- Low to High
+Price -- High to Low
+Newest First
+2020-10-03 12:15:41 INFO  :288 - Clicked
+2020-10-03 12:15:41 INFO  :293 - //div[contains(text(),'Popularity')]Pass Clicked : Clicked On Popularity
+2020-10-03 12:15:44 INFO  :288 - Clicked
+2020-10-03 12:15:44 INFO  :293 - //div[contains(text(),'Price -- Low to High')]Pass Clicked : Low to High
+2020-10-03 12:15:47 INFO  :288 - Clicked
+2020-10-03 12:15:47 INFO  :293 - //div[contains(text(),'Price -- High to Low')]Pass Clicked : High to Low
+2020-10-03 12:15:50 INFO  :288 - Clicked
+2020-10-03 12:15:51 INFO  :293 - //div[@class='_1xHtJz xufquN']Pass Clicked : Newest
+2020-10-03 12:15:54 INFO  :288 - Clicked
+2020-10-03 12:15:54 INFO  :293 - //a[@class='_3Ep39l']Pass Clicked : Clicked On Login Button
+2020-10-03 12:15:54 INFO  :314 - pageLoad
+2020-10-03 12:15:54 INFO  :264 - Entering The Data In TextField
+2020-10-03 12:15:54 INFO  :269 - Entered Data in Text Field::8578905140
+2020-10-03 12:15:54 INFO  :314 - pageLoad
+2020-10-03 12:15:54 INFO  :264 - Entering The Data In TextField
+2020-10-03 12:15:54 INFO  :269 - Entered Data in Text Field::zikra_78688
+2020-10-03 12:15:54 INFO  :314 - pageLoad
+2020-10-03 12:15:54 INFO  :288 - Clicked
+2020-10-03 12:15:54 INFO  :293 - //button[@class='_2AkmmA _1LctnI _7UHT_c']Pass Clicked : Clicked On Submit Button
+2020-10-03 12:15:54 INFO  :412 - URL Validation
+2020-10-03 12:15:59 INFO  :198 - Sucessfully Mouse Over & Move The Elementkeep the cursor on Baby & Kids
+2020-10-03 12:16:04 INFO  :288 - Clicked
+2020-10-03 12:16:04 INFO  :293 - //a[@title='Sport Shoes'][1]Pass Clicked : Clicked On Sport Shoes
+2020-10-03 12:16:12 INFO  :334 - GET TEXT
+2020-10-03 12:16:12 INFO  :339 - Locator : //span[@class='_35KyD6']actual value : Lace Running Shoes For Boys & Girls  (Red)
+2020-10-03 12:16:14 INFO  :334 - GET TEXT
+2020-10-03 12:16:14 INFO  :339 - Locator : //div[@class='_1vC4OE _3qQ9m1']actual value : ?399
+2020-10-03 12:16:16 INFO  :334 - GET TEXT
+2020-10-03 12:16:46 ERROR :346 - Error while getTextno such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='_38sUEc']"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AFKAR', ip: '192.168.43.100', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\AFKARA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d7f794f6cb9e88f0c52be0631eb84719
+*** Element info: {Using=xpath, value=//span[@class='_38sUEc']}
+2020-10-03 12:16:46 INFO  :232 - Failed Take ScreenShort
+2020-10-03 12:16:47 INFO  :243 - PASS failedTakeScreenshortE:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_getText 03-10-2020 12-16-47.jpg
+2020-10-03 12:16:49 INFO  :334 - GET TEXT
+2020-10-03 12:16:49 INFO  :339 - Locator : //div[@class='_3D89xM']actual value : Partner OfferBuy Footwear/ Accessories for ?600+ & Get 10% off On purchase of Clothing during Big Billion Days'20Know More
+Partner OfferEnrol for 'Payments Without OTP' on checkout, Get ?50 EGV on next txn. Only on select Visa CardsKnow More
+Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C
+Bank Offer10% off* with Axis Bank Buzz Credit CardT&C
+2020-10-03 12:16:51 INFO  :468 - Is Displayed
+2020-10-03 12:16:51 INFO  :476 - Element is displayed for : //span[contains(text(),'Deliver to')] Availabality of Deliver To
+2020-10-03 12:16:53 INFO  :264 - Entering The Data In TextField
+2020-10-03 12:16:53 INFO  :269 - Entered Data in Text Field::829122
+2020-10-03 12:16:55 INFO  :288 - Clicked
+2020-10-03 12:16:55 INFO  :293 - //span[contains(text(),'Check')]Pass Clicked : Click on Check
+2020-10-03 12:16:57 INFO  :334 - GET TEXT
+2020-10-03 12:16:57 INFO  :339 - Locator : //div[@class='_29Zp1s']actual value : Usually delivered in3 days?
+2020-10-03 12:17:05 INFO  :334 - GET TEXT
+2020-10-03 12:17:05 INFO  :339 - Locator : //div[@class='_37KLG6 _3K7Qff col col-12-12']actual value : Size (C = Child)
+11C
+12C
+13C
+2
+3
+4
+5
+Size Chart

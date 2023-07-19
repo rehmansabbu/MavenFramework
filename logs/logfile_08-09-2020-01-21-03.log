@@ -1,0 +1,80 @@
+2020-09-08 13:21:42 INFO  :285 - Clicked
+2020-09-08 13:21:49 INFO  :290 - //a[@class='portal-login-btn']Pass Clicked : PORTAL LOGIN BUTTON FIELD
+2020-09-08 13:21:49 INFO  :562 - Select Value From visible Text
+2020-09-08 13:21:50 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:21:50 INFO  :266 - Entered Data in Text Field::deo_2024
+2020-09-08 13:21:50 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:21:50 INFO  :266 - Entered Data in Text Field::Sh@78688
+2020-09-08 13:22:00 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:22:00 INFO  :266 - Entered Data in Text Field::5
+2020-09-08 13:22:00 INFO  :285 - Clicked
+2020-09-08 13:22:04 INFO  :290 - //button[@id='btnSubmit']Pass Clicked : SIGNIN FIELD
+2020-09-08 13:22:04 INFO  :462 - Is Displayed
+2020-09-08 13:22:04 INFO  :470 - Element is displayed for : //span[contains(text(),'Home')] Home Field
+2020-09-08 13:22:04 INFO  :436 - Get Attribute
+2020-09-08 13:22:04 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/dashboard
+2020-09-08 13:22:04 INFO  :381 - Label Text Validation
+2020-09-08 13:22:04 INFO  :386 - https://evidyavahini.jharkhand.gov.in/dashboard : https://evidyavahini.jharkhand.gov.in/dashboard
+2020-09-08 13:22:04 INFO  :331 - GET TEXT
+2020-09-08 13:22:04 INFO  :336 - Locator : //span[contains(text(),'User Management')]actual value : User Management
+2020-09-08 13:22:04 INFO  :462 - Is Displayed
+2020-09-08 13:22:04 INFO  :470 - Element is displayed for : //i[@class='icon-user_management usermanagement'] User Management Icon
+2020-09-08 13:22:04 INFO  :285 - Clicked
+2020-09-08 13:22:04 INFO  :290 - //span[contains(text(),'User Management')]Pass Clicked : Clicked on UserManagement
+2020-09-08 13:22:04 INFO  :331 - GET TEXT
+2020-09-08 13:22:04 INFO  :336 - Locator : //a[contains(text(),'Manage User')]actual value : Manage User
+2020-09-08 13:22:04 INFO  :436 - Get Attribute
+2020-09-08 13:22:04 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Master/Userprofile
+2020-09-08 13:22:04 INFO  :331 - GET TEXT
+2020-09-08 13:22:04 INFO  :336 - Locator : //a[contains(text(),'Manage Profile')]actual value : Manage Profile
+2020-09-08 13:22:04 INFO  :436 - Get Attribute
+2020-09-08 13:22:04 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Master/Employeeprofile
+2020-09-08 13:22:07 INFO  :285 - Clicked
+2020-09-08 13:22:07 INFO  :290 - //span[contains(text(),'User Management')]Pass Clicked : Clicked on UserManagement
+2020-09-08 13:22:07 INFO  :331 - GET TEXT
+2020-09-08 13:22:07 INFO  :336 - Locator : //span[contains(text(),'Manage School')]actual value : Manage School
+2020-09-08 13:22:07 INFO  :462 - Is Displayed
+2020-09-08 13:22:07 INFO  :470 - Element is displayed for : //i[@class='icon-manage_school manageschool'] Manage School Icon
+2020-09-08 13:22:07 INFO  :285 - Clicked
+2020-09-08 13:22:08 INFO  :290 - //span[contains(text(),'Manage School')]Pass Clicked : Clicked on Manage school
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //a[contains(text(),'View-Update School')]actual value : View-Update School
+2020-09-08 13:22:08 INFO  :436 - Get Attribute
+2020-09-08 13:22:08 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/School/Registration
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //a[contains(text(),'School MIS')]actual value : School MIS
+2020-09-08 13:22:08 INFO  :436 - Get Attribute
+2020-09-08 13:22:08 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/School/Mis
+2020-09-08 13:22:08 INFO  :285 - Clicked
+2020-09-08 13:22:08 INFO  :290 - //span[contains(text(),'Manage School')]Pass Clicked : Clicked on Manage school
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //span[contains(text(),'Teacher Activity')]actual value : Teacher Activity
+2020-09-08 13:22:08 INFO  :462 - Is Displayed
+2020-09-08 13:22:08 INFO  :470 - Element is displayed for : //i[@class='icon-teacher_activity teacheractivity'] Teacher Activity ICON
+2020-09-08 13:22:08 INFO  :285 - Clicked
+2020-09-08 13:22:08 INFO  :290 - //span[contains(text(),'Teacher Activity')]Pass Clicked : Clicked on Teacher Activity
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //a[contains(text(),'Registration- View-Update')]actual value : Registration- View-Update
+2020-09-08 13:22:08 INFO  :436 - Get Attribute
+2020-09-08 13:22:08 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/Registration
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //a[contains(text(),'Detailed Profile Update')]actual value : Detailed Profile Update
+2020-09-08 13:22:08 INFO  :436 - Get Attribute
+2020-09-08 13:22:08 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/Information
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //a[contains(text(),'Update Service Status')]actual value : Update Service Status
+2020-09-08 13:22:08 INFO  :436 - Get Attribute
+2020-09-08 13:22:08 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/TeacherService
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //a[contains(text(),'Teacher MIS')]actual value : Teacher MIS
+2020-09-08 13:22:08 INFO  :436 - Get Attribute
+2020-09-08 13:22:08 INFO  :441 - The Attribute value is!!!https://evidyavahini.jharkhand.gov.in/Teacher/TeacherMis
+2020-09-08 13:22:08 INFO  :285 - Clicked
+2020-09-08 13:22:08 INFO  :290 - //span[contains(text(),'Teacher Activity')]Pass Clicked : Clicked on Teacher Activity
+2020-09-08 13:22:08 INFO  :331 - GET TEXT
+2020-09-08 13:22:08 INFO  :336 - Locator : //span[contains(text(),'Student Activity')]actual value : Student Activity
+2020-09-08 13:22:08 INFO  :462 - Is Displayed
+2020-09-08 13:22:08 INFO  :470 - Element is displayed for : //i[@class='icon-student_activity studentactivity'] Student Activity Icon
+2020-09-08 13:22:08 INFO  :285 - Clicked
+2020-09-08 13:22:08 INFO  :290 - //span[contains(text(),'Student Activity')]Pass Clicked : Clicked on Student Activity
+2020-09-08 13:22:08 INFO  :331 - GET TEXT

@@ -1,0 +1,71 @@
+2020-09-08 13:19:06 INFO  :285 - Clicked
+2020-09-08 13:19:16 INFO  :290 - //a[@class='portal-login-btn']Pass Clicked : PORTAL LOGIN BUTTON FIELD
+2020-09-08 13:19:17 INFO  :562 - Select Value From visible Text
+2020-09-08 13:19:24 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:19:25 INFO  :266 - Entered Data in Text Field::deo_2024
+2020-09-08 13:19:25 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:19:25 INFO  :266 - Entered Data in Text Field::Sh@78688
+2020-09-08 13:19:39 INFO  :261 - Entering The Data In TextField
+2020-09-08 13:19:39 INFO  :266 - Entered Data in Text Field::5
+2020-09-08 13:19:39 INFO  :285 - Clicked
+2020-09-08 13:19:43 INFO  :290 - //button[@id='btnSubmit']Pass Clicked : SIGNIN FIELD
+2020-09-08 13:19:43 INFO  :406 - URL Validation
+2020-09-08 13:19:43 INFO  :413 - https://evidyavahini.jharkhand.gov.in/dashboard : https://evidyavahini.jharkhand.gov.in/dashboard
+2020-09-08 13:19:43 INFO  :331 - GET TEXT
+2020-09-08 13:19:43 INFO  :336 - Locator : //h1[@class='school_cnt']actual value : 35455
+2020-09-08 13:19:43 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //h1[@class='school_cnt'] Number of government school
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //span[@class='school_cnt_brp'] Visted by BRP/CRP
+2020-09-08 13:19:44 INFO  :331 - GET TEXT
+2020-09-08 13:19:44 INFO  :336 - Locator : //p[contains(text(),'govt.')]actual value : Number of govt. schools
+2020-09-08 13:19:44 INFO  :381 - Label Text Validation
+2020-09-08 13:19:44 INFO  :386 - govt. schools : govt. schools
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //h1[@class='teacher_cnt'] Number of Teacher
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //span[@class='teacher_present_cnt'] Total Present of Teacher
+2020-09-08 13:19:44 INFO  :331 - GET TEXT
+2020-09-08 13:19:44 INFO  :336 - Locator : //span[@class='active_brp_cnt']actual value : 0
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //span[@class='active_brp_cnt'] Active BRP/CRP
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //div[contains(text(),'Certification Data')] Certification data Text field
+2020-09-08 13:19:44 INFO  :331 - GET TEXT
+2020-09-08 13:19:44 INFO  :336 - Locator : //div[@class='nomination']//h3actual value : 8990
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //div[@class='nomination']//h3 Total certification Data
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //span[contains(text(),'Total certificate Nomination')] TOTAL_CERTIFICATION_NOMINATION TEXT FIELD
+2020-09-08 13:19:44 INFO  :331 - GET TEXT
+2020-09-08 13:19:44 INFO  :336 - Locator : //span[contains(text(),'Total certificate Nomination')]actual value : Total certificate Nomination
+2020-09-08 13:19:44 INFO  :381 - Label Text Validation
+2020-09-08 13:19:44 INFO  :386 - Nomination : Nomination
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //span[contains(text(),'School verified by BRP')] SCHOOL_VERIFIED_BY_BRP_CRP
+2020-09-08 13:19:44 INFO  :331 - GET TEXT
+2020-09-08 13:19:44 INFO  :336 - Locator : //div[@class='verifiedcrpbrp']//h3actual value : 1305
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //div[@class='verifiedcrpbrp']//h3 Total verified by brp crp
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //span[contains(text(),'School verified by external')] School Verified By External
+2020-09-08 13:19:44 INFO  :331 - GET TEXT
+2020-09-08 13:19:44 INFO  :336 - Locator : //div[@class='external']//h3actual value : 846
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //div[@class='external']//h3 Number of verified school by external
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //a[contains(text(),'Approved by external:')] Approved By External
+2020-09-08 13:19:44 INFO  :331 - GET TEXT
+2020-09-08 13:19:44 INFO  :336 - Locator : //div[@class='external']//smallactual value : Approved by external: 216
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //div[@class='external']//small Number of Approved by External
+2020-09-08 13:19:44 INFO  :381 - Label Text Validation
+2020-09-08 13:19:44 INFO  :386 - 216 : 216
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //div[@class='table-responsive']//th[contains(text(),'Sl#')] Serial Number
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:44 INFO  :470 - Element is displayed for : //div[@class='table-responsive']//th[contains(text(),'Details')] Details
+2020-09-08 13:19:44 INFO  :462 - Is Displayed
+2020-09-08 13:19:45 INFO  :470 - Element is displayed for : //th[contains(text(),'Action')] Action
+2020-09-08 13:19:45 INFO  :609 - The Size is::1
+2020-09-08 13:19:45 INFO  :609 - The Size is::1

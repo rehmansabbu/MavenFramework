@@ -1,0 +1,45 @@
+2020-10-03 11:59:06 INFO  :288 - Clicked
+2020-10-03 11:59:06 INFO  :293 - //button[@class='_2AkmmA _29YdH8']Pass Clicked :  Click on popup window
+2020-10-03 11:59:06 INFO  :412 - URL Validation
+2020-10-03 11:59:06 INFO  :419 - https://www.flipkart.com/ : https://www.flipkart.com/
+2020-10-03 11:59:06 INFO  :442 - Get Attribute
+2020-10-03 11:59:06 INFO  :447 - The Attribute value is!!!https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_4ee2f9.png
+2020-10-03 11:59:06 INFO  :497 - Is Enabled
+2020-10-03 11:59:06 INFO  :502 - The button is :: true
+2020-10-03 11:59:06 INFO  :509 - Button is enabled
+2020-10-03 11:59:06 INFO  :468 - Is Displayed
+2020-10-03 11:59:06 INFO  :476 - Element is displayed for : //div[@class='_2aUbKa'] More Button
+2020-10-03 11:59:06 INFO  :468 - Is Displayed
+2020-10-03 11:59:06 INFO  :476 - Element is displayed for : //span[contains(text(),'Cart')] Cart Button
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //span[contains(text(),'Electronics')]actual value : Electronics
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //span[contains(text(),'TVs & Appliances')]actual value : TVs & Appliances
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //span[contains(text(),'Men')]actual value : Men
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //span[contains(text(),'Women')]actual value : Women
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //span[contains(text(),'Baby & Kids')]actual value : Baby & Kids
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //span[contains(text(),'Home & Furniture')]actual value : Home & Furniture
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //span[contains(text(),'Sports, Books & More')]actual value : Sports, Books & More
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //a[contains(text(),'Flights')]actual value : Flights
+2020-10-03 11:59:06 INFO  :334 - GET TEXT
+2020-10-03 11:59:06 INFO  :339 - Locator : //a[contains(text(),'Offer Zone')]actual value : Offer Zone
+2020-10-03 11:59:07 INFO  :198 - Sucessfully Mouse Over & Move The ElementMouseOverMen
+2020-10-03 11:59:11 INFO  :288 - Clicked
+2020-10-03 11:59:41 ERROR :301 - Error While Clicked!!!no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Jeans']"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AFKAR', ip: '192.168.43.100', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\AFKARA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60929}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 52d7df94bbb8f0d2d204d6aba5eada48
+*** Element info: {Using=xpath, value=//a[@title='Jeans']}
+2020-10-03 11:59:41 INFO  :232 - Failed Take ScreenShort
+2020-10-03 11:59:41 INFO  :243 - PASS failedTakeScreenshortE:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_click 03-10-2020 11-59-41.jpg
+2020-10-03 11:59:41 INFO  :359 - Text Validation

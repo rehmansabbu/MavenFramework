@@ -1,0 +1,89 @@
+2020-11-07 22:44:57 INFO  :288 - Clicked
+2020-11-07 22:44:57 INFO  :293 - //button[@class='_2AkmmA _29YdH8']Pass Clicked :  Click on popup window
+2020-11-07 22:44:57 INFO  :412 - URL Validation
+2020-11-07 22:44:57 INFO  :419 - https://www.flipkart.com/ : https://www.flipkart.com/
+2020-11-07 22:44:57 INFO  :442 - Get Attribute
+2020-11-07 22:44:57 INFO  :447 - The Attribute value is!!!https://img1a.flixcart.com/www/linchpin/fk-cp-zion/img/flipkart-plus_4ee2f9.png
+2020-11-07 22:44:57 INFO  :497 - Is Enabled
+2020-11-07 22:44:57 INFO  :502 - The button is :: true
+2020-11-07 22:44:57 INFO  :509 - Button is enabled
+2020-11-07 22:44:57 INFO  :468 - Is Displayed
+2020-11-07 22:44:58 INFO  :476 - Element is displayed for : //div[@class='_2aUbKa'] More Button
+2020-11-07 22:44:58 INFO  :468 - Is Displayed
+2020-11-07 22:44:58 INFO  :476 - Element is displayed for : //span[contains(text(),'Cart')] Cart Button
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //span[contains(text(),'Electronics')]actual value : Electronics
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //span[contains(text(),'TVs & Appliances')]actual value : TVs & Appliances
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //span[contains(text(),'Men')]actual value : Men
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //span[contains(text(),'Women')]actual value : Women
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //span[contains(text(),'Baby & Kids')]actual value : Baby & Kids
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //span[contains(text(),'Home & Furniture')]actual value : Home & Furniture
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //span[contains(text(),'Sports, Books & More')]actual value : Sports, Books & More
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //a[contains(text(),'Flights')]actual value : Flights
+2020-11-07 22:44:58 INFO  :334 - GET TEXT
+2020-11-07 22:44:58 INFO  :339 - Locator : //a[contains(text(),'Offer Zone')]actual value : Offer Zone
+2020-11-07 22:44:58 INFO  :198 - Sucessfully Mouse Over & Move The ElementMouseOverMen
+2020-11-07 22:45:02 INFO  :288 - Clicked
+2020-11-07 22:45:02 INFO  :293 - //a[contains(text(),'Jeans')]Pass Clicked : Clicked On Jeans
+2020-11-07 22:45:02 INFO  :359 - Text Validation
+2020-11-07 22:45:06 INFO  :334 - GET TEXT
+2020-11-07 22:45:06 INFO  :339 - Locator : //h1[@class='_2yAnYN']actual value : Men's Jeans
+2020-11-07 22:45:06 INFO  :334 - GET TEXT
+2020-11-07 22:45:06 INFO  :339 - Locator : //span[@class='eGD5BM']actual value : (Showing 1 – 40 products of 80,165 products)
+2020-11-07 22:45:06 INFO  :334 - GET TEXT
+2020-11-07 22:45:06 INFO  :339 - Locator : //div[@class='_3ywJNQ']actual value : Sort By
+Popularity
+Price -- Low to High
+Price -- High to Low
+Newest First
+2020-11-07 22:45:06 INFO  :288 - Clicked
+2020-11-07 22:45:07 INFO  :293 - //div[contains(text(),'Popularity')]Pass Clicked : Clicked On Popularity
+2020-11-07 22:45:10 INFO  :288 - Clicked
+2020-11-07 22:45:10 INFO  :293 - //div[contains(text(),'Price -- Low to High')]Pass Clicked : Low to High
+2020-11-07 22:45:13 INFO  :288 - Clicked
+2020-11-07 22:45:13 INFO  :293 - //div[contains(text(),'Price -- High to Low')]Pass Clicked : High to Low
+2020-11-07 22:45:16 INFO  :288 - Clicked
+2020-11-07 22:45:16 INFO  :293 - //div[@class='_1xHtJz xufquN']Pass Clicked : Newest
+2020-11-07 22:45:20 INFO  :288 - Clicked
+2020-11-07 22:45:20 INFO  :293 - //a[@class='_3Ep39l']Pass Clicked : Clicked On Login Button
+2020-11-07 22:45:20 INFO  :314 - pageLoad
+2020-11-07 22:45:20 INFO  :264 - Entering The Data In TextField
+2020-11-07 22:45:20 INFO  :269 - Entered Data in Text Field::8578905140
+2020-11-07 22:45:20 INFO  :314 - pageLoad
+2020-11-07 22:45:20 INFO  :264 - Entering The Data In TextField
+2020-11-07 22:45:20 INFO  :269 - Entered Data in Text Field::zikra_78688
+2020-11-07 22:45:20 INFO  :314 - pageLoad
+2020-11-07 22:45:20 INFO  :288 - Clicked
+2020-11-07 22:45:20 INFO  :293 - //button[@class='_2AkmmA _1LctnI _7UHT_c']Pass Clicked : Clicked On Submit Button
+2020-11-07 22:45:20 INFO  :412 - URL Validation
+2020-11-07 22:45:26 INFO  :198 - Sucessfully Mouse Over & Move The Elementkeep the cursor on Baby & Kids
+2020-11-07 22:45:31 INFO  :288 - Clicked
+2020-11-07 22:45:31 INFO  :293 - //a[@title='Sport Shoes'][1]Pass Clicked : Clicked On Sport Shoes
+2020-11-07 22:45:45 INFO  :334 - GET TEXT
+2020-11-07 22:45:45 INFO  :339 - Locator : //span[@class='_35KyD6']actual value : Lace Running Shoes For Boys & Girls  (Black)
+2020-11-07 22:45:47 INFO  :334 - GET TEXT
+2020-11-07 22:45:47 INFO  :339 - Locator : //div[@class='_1vC4OE _3qQ9m1']actual value : ?299
+2020-11-07 22:45:49 INFO  :334 - GET TEXT
+2020-11-07 22:45:49 INFO  :339 - Locator : //span[@class='_38sUEc']actual value : 10 ratings and 1 reviews
+2020-11-07 22:45:51 INFO  :334 - GET TEXT
+2020-11-07 22:45:52 INFO  :339 - Locator : //div[@class='_3D89xM']actual value : Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C
+Bank OfferFlat 5000 Instant Discount with American Express CardsT&C
+Bank OfferFlat 5000 Instant Discount with RBL Bank Credit and Debit CardsT&C
+No Cost EMI on Flipkart Axis Bank Credit CardT&C
+2020-11-07 22:45:54 INFO  :468 - Is Displayed
+2020-11-07 22:45:54 INFO  :476 - Element is displayed for : //span[contains(text(),'Deliver to')] Availabality of Deliver To
+2020-11-07 22:45:56 INFO  :264 - Entering The Data In TextField
+2020-11-07 22:45:56 INFO  :269 - Entered Data in Text Field::829122
+2020-11-07 22:45:58 INFO  :288 - Clicked
+2020-11-07 22:45:58 INFO  :293 - //span[contains(text(),'Check')]Pass Clicked : Click on Check
+2020-11-07 22:46:00 INFO  :334 - GET TEXT
+2020-11-07 22:46:00 INFO  :339 - Locator : //div[@class='_29Zp1s']actual value : Usually delivered in3 days?
+2020-11-07 22:46:08 INFO  :232 - Failed Take ScreenShort
+2020-11-07 22:46:09 INFO  :243 - PASS failedTakeScreenshortD:\SELENIUM WITH JAVA PRACTICE AGAIN\MavenFramework/reports/screenshort/_Login 07-11-2020 10-46-9.jpg
